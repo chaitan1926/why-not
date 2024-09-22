@@ -1,0 +1,5 @@
+name = input("Say my name: ")
+if name == "heisenberg":
+    print("You're goddamn right!")
+else:
+    print("go fuck yourself!")
